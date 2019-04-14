@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://burning.github.io" resolutions="1x,2x" timestamp="1554982215352">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://burningheidywang.github.io" resolutions="1x,2x" timestamp="1555249162823">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4042801234" ref="index"/>
@@ -38,5 +38,5 @@
     <file name="9472341464991.jpg" crc="481752626" ref="burning"/>
   </folder>
   <file name="index.html" crc="3793000961" seo="true" mt="1553697210805" redirect="false"/>
-  <file name="burning.html" crc="4155318664" seo="true" mt="1554982170562" redirect="true"/>
+  <file name="burning.html" crc="80173860" seo="true" mt="1554982170562" redirect="true"/>
 </manifest>
