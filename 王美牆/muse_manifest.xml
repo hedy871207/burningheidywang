@@ -1,0 +1,42 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://burning.github.io" resolutions="1x,2x" timestamp="1554982215352">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4042801234" ref="index"/>
+    <file name="burning.css" crc="103338498" ref="burning"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:burning"/>
+    <file name="museutils.js" crc="163421577" ref="index:burning"/>
+    <file name="whatinput.js" crc="86476730" ref="index:burning"/>
+    <file name="museconfig.js" crc="168988563" ref="index:burning"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:burning"/>
+    <file name="require.js" crc="244322403" ref="index:burning"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="burning"/>
+  </folder>
+  <folder name="images">
+    <file name="u126-4.png" crc="3910155719" ref="burning"/>
+    <file name="u126-4_2x.png" crc="332086193" ref="burning"/>
+    <file name="u133-8.png" crc="3925235910" ref="burning"/>
+    <file name="u133-8_2x.png" crc="25159462" ref="burning"/>
+    <file name="9472341391920.jpg" crc="92180001" ref="burning"/>
+    <file name="9472342550079-u261-fr.png" crc="3965368570" ref="burning"/>
+    <file name="p_20171130_124237_vhdr_on.jpg" crc="4102189611" seo="true" ref="burning"/>
+    <file name="p_20171130_124237_vhdr_on_2x.jpg" crc="288243120" seo="true" ref="burning"/>
+    <file name="u161-4.png" crc="408911544" ref="burning"/>
+    <file name="u161-4_2x.png" crc="4045115780" ref="burning"/>
+    <file name="1.jpg" crc="3986787489" seo="true" ref="burning"/>
+    <file name="1_2x.jpg" crc="3942257270" seo="true" ref="burning"/>
+    <file name="icon2.png" crc="233760081" seo="true" ref="burning"/>
+    <file name="icon2_2x.png" crc="290588775" seo="true" ref="burning"/>
+    <file name="u202-6.png" crc="310562560" ref="burning"/>
+    <file name="u202-6_2x.png" crc="134063275" ref="burning"/>
+    <file name="icon1.png" crc="358183227" seo="true" ref="burning"/>
+    <file name="icon1_2x.png" crc="182655268" seo="true" ref="burning"/>
+    <file name="u228-17.png" crc="228381086" ref="burning"/>
+    <file name="u228-17_2x.png" crc="3990130326" ref="burning"/>
+    <file name="9472341211443.jpg" crc="4234257087" ref="burning"/>
+    <file name="9472341464991.jpg" crc="481752626" ref="burning"/>
+  </folder>
+  <file name="index.html" crc="3793000961" seo="true" mt="1553697210805" redirect="false"/>
+  <file name="burning.html" crc="4155318664" seo="true" mt="1554982170562" redirect="true"/>
+</manifest>
